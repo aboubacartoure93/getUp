@@ -1,1 +1,1 @@
-je suis en trainde chercer# getUp
+je suis en train de m'entrainer, premier test# getUp
